@@ -1,0 +1,7 @@
+Signal,Waveform MSE,Pearson Corr,SNR (dB),STOI
+ISTFT (Original STFT),5.355291e-17,1.0000,145.26,1.0000
+sig1 (Zero Phase),1.868388e-02,-0.0044,-0.16,0.8400
+sig2 (Random Odd Phase),2.222678e-02,0.0150,-0.92,0.8653
+Scrambled Speech,2.238525e-02,0.0056,-0.95,0.8719
+Griffin-Lim (64 iters),4.202383e-02,-0.1693,-3.68,0.9964
+Keyed Recovered,7.914970e-17,1.0000,143.57,1.0000
